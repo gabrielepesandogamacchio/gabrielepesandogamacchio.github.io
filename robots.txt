@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gabrielepesandogamacchio.github.io/sitemap.xml
